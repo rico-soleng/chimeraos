@@ -158,44 +158,12 @@ export PACKAGE_OVERRIDES="\
 "
 
 export AUR_PACKAGES="\
-	ayaled \
-	bcm20702a1-firmware \
-	boxtron \
 	chimera \
 	chimeraos-device-quirks-git \
 	downgrade \
 	frzr \
-	gamescope-plus \
-	gamescope-session-git \
-	handygccs-git \
-	hhfc-git \
-	legendary \
-	lib32-gamescope-plus \
-	libretro-dosbox-pure-git \
-	libretro-opera-git \
-	libretro-prosystem-git \
-	libretro-stella2014-git \
-	libretro-virtualjaguar-git \
-	nintendo-udev \
-	opengamepadui-bin \
-	opengamepadui-session-git \
-	oxp-sensors-dkms-git \
 	pikaur \
 	python-vdf \
-	r8152-dkms \
-	retroarch-autoconfig-udev-git \
-	rtl8812au-dkms-git \
-	rtl8814au-dkms-git \
-	rtl88x2bu-dkms-git \
-	rtl8821au-dkms-git \
-	rtw89-dkms-git \
-	ryzenadj-git \
-	ryzenadj-controller-git \
-	rz608-fix-git \
-	steam-removable-media-git \
-	wyvern \
-	xpad-noone-dkms \
-	xpadneo-dkms \
 "
 
 export SERVICES="\
